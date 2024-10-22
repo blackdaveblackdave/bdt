@@ -64,3 +64,4 @@ const activeChain = "mumbai";
 ## Join our Discord!
 
 For any questions, suggestions, join our Discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+# bdt
